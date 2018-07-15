@@ -1,0 +1,7 @@
+﻿  소스.c
+c:\users\jsy\source\repos\cpu_sche\cpu_sche\소스.c(140): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsy\source\repos\cpu_sche\cpu_sche\소스.c(135): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\jsy\source\repos\cpu_sche\cpu_sche\소스.c(644): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  cpu_sche.vcxproj -> C:\Users\jsy\source\repos\cpu_sche\Debug\cpu_sche.exe
